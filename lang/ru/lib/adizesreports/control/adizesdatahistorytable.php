@@ -1,0 +1,7 @@
+<?php
+$MESS['FINCALC_DATA_HISTORY_NAME'] = 'Название';
+$MESS['FINCALC_DATA_HISTORY_DATA_TYPE'] = 'Тип данных';
+$MESS['FINCALC_DATA_HISTORY_SUM_IN_ORIGINAL_CURRENCY'] = 'Сумма в оригинальной валюте';
+$MESS['FINCALC_DATA_HISTORY_SUM_IN_USD'] = 'Сумма в долларах';
+$MESS['FINCALC_DATA_HISTORY_SNAPSHOT'] = 'Снапшот';
+
